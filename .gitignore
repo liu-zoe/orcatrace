@@ -1,0 +1,22 @@
+#Folders
+/orcatrace_venv
+
+#Files
+/assets/._*
+/data/._*
+/data/srkw_occupances_metadata.json
+._*
+mapbox_token.txt
+orcatrace.code-workspace
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
